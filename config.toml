@@ -1,0 +1,62 @@
+baseURL = "http://bwplus.shaanta.com/"
+languageCode = "en-us"
+title = "Best Western Plus Governor's Inn, Midlothian VA"
+theme = "doors"
+googleAnalytics = "UA-190265905-1"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+# Site information
+[params]
+description = ""
+ogimage = "img/hero.jpg"
+
+# Project section
+[params.projects]
+
+[[params.projects.list]]
+title = "Thanks for staying at Best Western!"
+url = "#"
+description = "Click here for the guest directory"
+image = "img/hero.jpg"
+w = "1024"
+h = "683"
+
+# Subproject section
+[params.subprojects]
+
+[[params.subprojects.list]]
+title = "Find us on Google Maps"
+url = "#"
+description = "9826 Midlothian Turnpike, North Chesterfield, VA 23235"
+image = "img/map.jpg"
+w = "780"
+h = "500"
+
+[[params.subprojects.list]]
+title = "Breakfast Options"
+url = "#"
+description = "We're offering breakfast and hot sandwiches at the front desk"
+image = "img/breakfast.jpg"
+w = "780"
+h = "500"
+
+[[params.subprojects.list]]
+title = "Things to do in Richmond"
+url = "https://www.visitrichmondva.com/things-to-do/"
+description = "Note: There's a lot"
+image = "img/richmond.jpg"
+w = "780"
+h = "518"
+
+# Contact section
+[params.contact]
+description = "We'd love to hear from you! Please send us an email or leave a review on any major site."
+twitter = ""
+facebook = ""
+linkedin = ""
+github = ""
+email = "mailto:vibha@shaanta.com"
