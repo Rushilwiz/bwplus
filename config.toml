@@ -19,7 +19,7 @@ ogimage = "img/hero.jpg"
 
 [[params.projects.list]]
 title = "Thanks for staying at Best Western!"
-url = "#"
+url = "/guest_directory.pdf"
 description = "Click here for the guest directory"
 image = "img/hero.jpg"
 w = "1024"
@@ -30,7 +30,7 @@ h = "683"
 
 [[params.subprojects.list]]
 title = "Find us on Google Maps"
-url = "#"
+url = "https://goo.gl/maps/awYGiREjA96xThXJ7"
 description = "9826 Midlothian Turnpike, North Chesterfield, VA 23235"
 image = "img/map.jpg"
 w = "780"
